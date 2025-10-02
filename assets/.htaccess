@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Se la richiesta è esattamente /assets/serve (anche con query string)
+RewriteRule ^serve$ serve.php [L,QSA]

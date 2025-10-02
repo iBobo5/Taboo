@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "guess": "Nike",
+    "taboo": ["Coca-Cola", "Apple", "Adidas", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 2,
+    "guess": "Big Bang",
+    "taboo": ["Newton", "Einstein", "Atomo", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 3,
+    "guess": "DNA",
+    "taboo": ["Atomo", "Newton", "Big Bang", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 4,
+    "guess": "Coca-Cola",
+    "taboo": ["Nike", "Apple", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 5,
+    "guess": "Formula 1",
+    "taboo": ["Basket", "Tennis", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 6,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Eminem", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 7,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["Dune", "Harry Potter", "It", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 8,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Madonna", "Drake", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 9,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Napoleone", "Gandhi", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 10,
+    "guess": "Pepsi",
+    "taboo": ["Coca-Cola", "Nike", "Adidas", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 11,
+    "guess": "Formula 1",
+    "taboo": ["Ronaldo", "Messi", "Tennis", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 12,
+    "guess": "Matrix",
+    "taboo": ["Joker", "Inception", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 13,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Big Bang", "Einstein", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 14,
+    "guess": "It",
+    "taboo": ["Harry Potter", "Il Signore degli Anelli", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 15,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "Google", "Android", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 16,
+    "guess": "ChatGPT",
+    "taboo": ["Android", "Robot", "Google", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 17,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Formula 1", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 18,
+    "guess": "Tokyo",
+    "taboo": ["Roma", "Londra", "Parigi", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 19,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Pizza", "Pasta", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 20,
+    "guess": "Sedia",
+    "taboo": ["Bicicletta", "Lampada", "Computer", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 21,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Sushi", "Pizza", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 22,
+    "guess": "Harry Potter",
+    "taboo": ["1984", "Dune", "Il Signore degli Anelli", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 23,
+    "guess": "Nike",
+    "taboo": ["Adidas", "Pepsi", "Apple", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 24,
+    "guess": "1984",
+    "taboo": ["It", "Dune", "Harry Potter", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 25,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Titanic", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 26,
+    "guess": "Pepsi",
+    "taboo": ["Adidas", "Apple", "Nike", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 27,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Churchill", "Cesare", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 28,
+    "guess": "Computer",
+    "taboo": ["Telefono", "Lampada", "Bicicletta", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 29,
+    "guess": "Telefono",
+    "taboo": ["Sedia", "Bicicletta", "Lampada", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 30,
+    "guess": "Computer",
+    "taboo": ["Lampada", "Telefono", "Bicicletta", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 31,
+    "guess": "Telefono",
+    "taboo": ["Lampada", "Bicicletta", "Computer", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 32,
+    "guess": "Pepsi",
+    "taboo": ["Apple", "Coca-Cola", "Adidas", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 33,
+    "guess": "Hitler",
+    "taboo": ["Napoleone", "Gandhi", "Churchill", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 34,
+    "guess": "It",
+    "taboo": ["Dune", "1984", "Harry Potter", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 35,
+    "guess": "Big Bang",
+    "taboo": ["Atomo", "Einstein", "DNA", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 36,
+    "guess": "ChatGPT",
+    "taboo": ["Google", "iPhone", "Robot", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 37,
+    "guess": "Gandhi",
+    "taboo": ["Churchill", "Cesare", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 38,
+    "guess": "Cesare",
+    "taboo": ["Hitler", "Gandhi", "Churchill", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 39,
+    "guess": "Inception",
+    "taboo": ["Avatar", "Joker", "Matrix", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 40,
+    "guess": "Telefono",
+    "taboo": ["Sedia", "Lampada", "Bicicletta", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 41,
+    "guess": "Google",
+    "taboo": ["Android", "ChatGPT", "Robot", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 42,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "iPhone", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 43,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Sushi", "Gelato", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 44,
+    "guess": "Android",
+    "taboo": ["iPhone", "Robot", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 45,
+    "guess": "Dune",
+    "taboo": ["Harry Potter", "1984", "It", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 46,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Atomo", "Big Bang", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 47,
+    "guess": "Madonna",
+    "taboo": ["Drake", "Beatles", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 48,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Madonna", "Beatles", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 49,
+    "guess": "Gandhi",
+    "taboo": ["Hitler", "Napoleone", "Cesare", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 50,
+    "guess": "Drake",
+    "taboo": ["Eminem", "Madonna", "Adele", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 51,
+    "guess": "Londra",
+    "taboo": ["New York", "Roma", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 52,
+    "guess": "Pasta",
+    "taboo": ["Gelato", "Sushi", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 53,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "Google", "Robot", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 54,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Dune", "Il Signore degli Anelli", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 55,
+    "guess": "Pasta",
+    "taboo": ["Pizza", "Sushi", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 56,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Einstein", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 57,
+    "guess": "Matrix",
+    "taboo": ["Avatar", "Titanic", "Joker", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 58,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Hitler", "Cesare", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 59,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Pasta", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 60,
+    "guess": "Parigi",
+    "taboo": ["Roma", "Londra", "New York", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 61,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Messi", "Basket", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 62,
+    "guess": "Computer",
+    "taboo": ["Sedia", "Bicicletta", "Lampada", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 63,
+    "guess": "Cesare",
+    "taboo": ["Churchill", "Hitler", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 64,
+    "guess": "Telefono",
+    "taboo": ["Lampada", "Computer", "Sedia", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 65,
+    "guess": "Android",
+    "taboo": ["iPhone", "Google", "Robot", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 66,
+    "guess": "1984",
+    "taboo": ["Dune", "It", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 67,
+    "guess": "Matrix",
+    "taboo": ["Titanic", "Inception", "Joker", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 68,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["1984", "Dune", "It", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 69,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Pizza", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 70,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Newton", "Big Bang", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 71,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Madonna", "Beatles", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 72,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 73,
+    "guess": "Einstein",
+    "taboo": ["DNA", "Newton", "Big Bang", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 74,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Ronaldo", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 75,
+    "guess": "Computer",
+    "taboo": ["Telefono", "Sedia", "Lampada", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 76,
+    "guess": "Computer",
+    "taboo": ["Sedia", "Lampada", "Bicicletta", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 77,
+    "guess": "Adidas",
+    "taboo": ["Coca-Cola", "Nike", "Apple", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 78,
+    "guess": "Hitler",
+    "taboo": ["Churchill", "Napoleone", "Cesare", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 79,
+    "guess": "New York",
+    "taboo": ["Roma", "Parigi", "Tokyo", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 80,
+    "guess": "Robot",
+    "taboo": ["Android", "Google", "iPhone", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 81,
+    "guess": "Sedia",
+    "taboo": ["Bicicletta", "Telefono", "Lampada", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 82,
+    "guess": "Matrix",
+    "taboo": ["Joker", "Avatar", "Titanic", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 83,
+    "guess": "Churchill",
+    "taboo": ["Cesare", "Napoleone", "Hitler", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 84,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Joker", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 85,
+    "guess": "Messi",
+    "taboo": ["Formula 1", "Tennis", "Basket", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 86,
+    "guess": "Tennis",
+    "taboo": ["Basket", "Messi", "Ronaldo", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 87,
+    "guess": "Matrix",
+    "taboo": ["Joker", "Titanic", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 88,
+    "guess": "Android",
+    "taboo": ["iPhone", "Robot", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 89,
+    "guess": "Gandhi",
+    "taboo": ["Cesare", "Hitler", "Churchill", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 90,
+    "guess": "DNA",
+    "taboo": ["Big Bang", "Newton", "Einstein", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 91,
+    "guess": "Newton",
+    "taboo": ["Big Bang", "Atomo", "DNA", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 92,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Beatles", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 93,
+    "guess": "Adidas",
+    "taboo": ["Pepsi", "Coca-Cola", "Nike", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 94,
+    "guess": "DNA",
+    "taboo": ["Newton", "Atomo", "Einstein", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 95,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Il Signore degli Anelli", "Dune", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 96,
+    "guess": "Harry Potter",
+    "taboo": ["It", "1984", "Il Signore degli Anelli", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 97,
+    "guess": "iPhone",
+    "taboo": ["ChatGPT", "Robot", "Android", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 98,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Madonna", "Drake", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 99,
+    "guess": "Roma",
+    "taboo": ["Tokyo", "Parigi", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 100,
+    "guess": "Inception",
+    "taboo": ["Joker", "Matrix", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 101,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "Big Bang", "Newton", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 102,
+    "guess": "Gelato",
+    "taboo": ["Sushi", "Pizza", "Pasta", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 103,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Madonna", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 104,
+    "guess": "Hamburger",
+    "taboo": ["Sushi", "Pasta", "Gelato", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 105,
+    "guess": "Titanic",
+    "taboo": ["Inception", "Joker", "Matrix", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 106,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Ronaldo", "Formula 1", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 107,
+    "guess": "Newton",
+    "taboo": ["DNA", "Einstein", "Atomo", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 108,
+    "guess": "Computer",
+    "taboo": ["Sedia", "Bicicletta", "Telefono", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 109,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Ronaldo", "Messi", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 110,
+    "guess": "Einstein",
+    "taboo": ["DNA", "Big Bang", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 111,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Formula 1", "Messi", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 112,
+    "guess": "Lampada",
+    "taboo": ["Telefono", "Bicicletta", "Sedia", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 113,
+    "guess": "Adidas",
+    "taboo": ["Coca-Cola", "Apple", "Nike", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 114,
+    "guess": "Adidas",
+    "taboo": ["Nike", "Pepsi", "Coca-Cola", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 115,
+    "guess": "iPhone",
+    "taboo": ["Google", "Android", "Robot", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 116,
+    "guess": "Hitler",
+    "taboo": ["Napoleone", "Cesare", "Churchill", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 117,
+    "guess": "Titanic",
+    "taboo": ["Joker", "Avatar", "Matrix", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 118,
+    "guess": "Matrix",
+    "taboo": ["Titanic", "Joker", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 119,
+    "guess": "Atomo",
+    "taboo": ["Einstein", "Newton", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 120,
+    "guess": "Inception",
+    "taboo": ["Titanic", "Avatar", "Matrix", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 121,
+    "guess": "Harry Potter",
+    "taboo": ["1984", "It", "Dune", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 122,
+    "guess": "Sushi",
+    "taboo": ["Pasta", "Pizza", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 123,
+    "guess": "iPhone",
+    "taboo": ["ChatGPT", "Android", "Google", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 124,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Londra", "Roma", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 125,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Messi", "Formula 1", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 126,
+    "guess": "Big Bang",
+    "taboo": ["Newton", "Einstein", "DNA", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 127,
+    "guess": "Sedia",
+    "taboo": ["Telefono", "Computer", "Bicicletta", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 128,
+    "guess": "Messi",
+    "taboo": ["Basket", "Formula 1", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 129,
+    "guess": "iPhone",
+    "taboo": ["Android", "Google", "ChatGPT", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 130,
+    "guess": "iPhone",
+    "taboo": ["ChatGPT", "Android", "Google", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 131,
+    "guess": "Tokyo",
+    "taboo": ["Roma", "Parigi", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 132,
+    "guess": "Roma",
+    "taboo": ["Tokyo", "New York", "Parigi", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 133,
+    "guess": "iPhone",
+    "taboo": ["ChatGPT", "Robot", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 134,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Big Bang", "DNA", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 135,
+    "guess": "Eminem",
+    "taboo": ["Beatles", "Madonna", "Drake", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 136,
+    "guess": "DNA",
+    "taboo": ["Big Bang", "Atomo", "Einstein", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 137,
+    "guess": "Roma",
+    "taboo": ["Parigi", "Londra", "New York", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 138,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "Android", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 139,
+    "guess": "iPhone",
+    "taboo": ["Robot", "Google", "ChatGPT", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 140,
+    "guess": "Harry Potter",
+    "taboo": ["Dune", "Il Signore degli Anelli", "1984", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 141,
+    "guess": "Hamburger",
+    "taboo": ["Pizza", "Sushi", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 142,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Pasta", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 143,
+    "guess": "Pizza",
+    "taboo": ["Hamburger", "Pasta", "Sushi", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 144,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Roma", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 145,
+    "guess": "Titanic",
+    "taboo": ["Inception", "Joker", "Matrix", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 146,
+    "guess": "Adidas",
+    "taboo": ["Apple", "Pepsi", "Nike", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 147,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Messi", "Basket", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 148,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "New York", "Roma", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 149,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Joker", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 150,
+    "guess": "Londra",
+    "taboo": ["Parigi", "New York", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 151,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Basket", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 152,
+    "guess": "Adidas",
+    "taboo": ["Pepsi", "Nike", "Coca-Cola", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 153,
+    "guess": "Matrix",
+    "taboo": ["Titanic", "Joker", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 154,
+    "guess": "Atomo",
+    "taboo": ["Einstein", "DNA", "Big Bang", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 155,
+    "guess": "New York",
+    "taboo": ["Londra", "Parigi", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 156,
+    "guess": "Drake",
+    "taboo": ["Madonna", "Beatles", "Eminem", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 157,
+    "guess": "iPhone",
+    "taboo": ["Google", "ChatGPT", "Android", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 158,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Inception", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 159,
+    "guess": "New York",
+    "taboo": ["Tokyo", "Londra", "Roma", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 160,
+    "guess": "Parigi",
+    "taboo": ["New York", "Roma", "Londra", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 161,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Pasta", "Pizza", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 162,
+    "guess": "Nike",
+    "taboo": ["Coca-Cola", "Apple", "Adidas", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 163,
+    "guess": "DNA",
+    "taboo": ["Atomo", "Big Bang", "Newton", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 164,
+    "guess": "Atomo",
+    "taboo": ["Big Bang", "Einstein", "DNA", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 165,
+    "guess": "Harry Potter",
+    "taboo": ["Il Signore degli Anelli", "It", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 166,
+    "guess": "Hamburger",
+    "taboo": ["Pizza", "Pasta", "Sushi", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 167,
+    "guess": "Computer",
+    "taboo": ["Lampada", "Telefono", "Sedia", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 168,
+    "guess": "Telefono",
+    "taboo": ["Lampada", "Computer", "Sedia", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 169,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Basket", "Messi", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 170,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["Dune", "It", "Harry Potter", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 171,
+    "guess": "Harry Potter",
+    "taboo": ["Il Signore degli Anelli", "It", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 172,
+    "guess": "New York",
+    "taboo": ["Roma", "Tokyo", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 173,
+    "guess": "Messi",
+    "taboo": ["Formula 1", "Ronaldo", "Basket", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 174,
+    "guess": "Londra",
+    "taboo": ["New York", "Tokyo", "Roma", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 175,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Titanic", "Joker", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 176,
+    "guess": "Londra",
+    "taboo": ["Roma", "Parigi", "Tokyo", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 177,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Pasta", "Hamburger", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 178,
+    "guess": "Atomo",
+    "taboo": ["Big Bang", "Newton", "Einstein", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 179,
+    "guess": "Londra",
+    "taboo": ["Parigi", "Tokyo", "New York", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 180,
+    "guess": "Pasta",
+    "taboo": ["Hamburger", "Pizza", "Sushi", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 181,
+    "guess": "Apple",
+    "taboo": ["Coca-Cola", "Adidas", "Nike", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 182,
+    "guess": "Gandhi",
+    "taboo": ["Cesare", "Churchill", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 183,
+    "guess": "Pizza",
+    "taboo": ["Pasta", "Sushi", "Gelato", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 184,
+    "guess": "Bicicletta",
+    "taboo": ["Lampada", "Computer", "Sedia", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 185,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "DNA", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 186,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Roma", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 187,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Basket", "Formula 1", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 188,
+    "guess": "Hamburger",
+    "taboo": ["Gelato", "Pasta", "Pizza", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 189,
+    "guess": "Robot",
+    "taboo": ["Android", "Google", "iPhone", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 190,
+    "guess": "Big Bang",
+    "taboo": ["Einstein", "DNA", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 191,
+    "guess": "Coca-Cola",
+    "taboo": ["Apple", "Nike", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 192,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "New York", "Parigi", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 193,
+    "guess": "Pepsi",
+    "taboo": ["Coca-Cola", "Apple", "Nike", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 194,
+    "guess": "Titanic",
+    "taboo": ["Inception", "Matrix", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 195,
+    "guess": "Atomo",
+    "taboo": ["Einstein", "DNA", "Big Bang", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 196,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Sushi", "Pizza", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 197,
+    "guess": "Robot",
+    "taboo": ["ChatGPT", "Android", "Google", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 198,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Drake", "Madonna", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 199,
+    "guess": "Atomo",
+    "taboo": ["Big Bang", "Einstein", "DNA", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 200,
+    "guess": "Roma",
+    "taboo": ["New York", "Tokyo", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 201,
+    "guess": "Big Bang",
+    "taboo": ["DNA", "Einstein", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 202,
+    "guess": "Matrix",
+    "taboo": ["Joker", "Inception", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 203,
+    "guess": "ChatGPT",
+    "taboo": ["iPhone", "Android", "Robot", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 204,
+    "guess": "Lampada",
+    "taboo": ["Computer", "Bicicletta", "Telefono", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 205,
+    "guess": "Nike",
+    "taboo": ["Coca-Cola", "Pepsi", "Adidas", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 206,
+    "guess": "Parigi",
+    "taboo": ["New York", "Tokyo", "Londra", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 207,
+    "guess": "Londra",
+    "taboo": ["Tokyo", "Roma", "New York", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 208,
+    "guess": "Sedia",
+    "taboo": ["Telefono", "Computer", "Lampada", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 209,
+    "guess": "Matrix",
+    "taboo": ["Joker", "Avatar", "Inception", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 210,
+    "guess": "Messi",
+    "taboo": ["Basket", "Formula 1", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 211,
+    "guess": "Sedia",
+    "taboo": ["Lampada", "Computer", "Telefono", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 212,
+    "guess": "Gelato",
+    "taboo": ["Pasta", "Hamburger", "Pizza", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 213,
+    "guess": "Roma",
+    "taboo": ["New York", "Londra", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 214,
+    "guess": "Google",
+    "taboo": ["Robot", "Android", "ChatGPT", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 215,
+    "guess": "1984",
+    "taboo": ["It", "Il Signore degli Anelli", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 216,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "Google", "Robot", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 217,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Drake", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 218,
+    "guess": "New York",
+    "taboo": ["Londra", "Parigi", "Roma", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 219,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Coca-Cola", "Nike", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 220,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Roma", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 221,
+    "guess": "Basket",
+    "taboo": ["Messi", "Formula 1", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 222,
+    "guess": "Basket",
+    "taboo": ["Messi", "Formula 1", "Tennis", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 223,
+    "guess": "Messi",
+    "taboo": ["Formula 1", "Tennis", "Ronaldo", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 224,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 225,
+    "guess": "Lampada",
+    "taboo": ["Sedia", "Telefono", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 226,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Avatar", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 227,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Cesare", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 228,
+    "guess": "Computer",
+    "taboo": ["Lampada", "Sedia", "Bicicletta", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 229,
+    "guess": "New York",
+    "taboo": ["Tokyo", "Roma", "Parigi", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 230,
+    "guess": "Londra",
+    "taboo": ["New York", "Roma", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 231,
+    "guess": "Big Bang",
+    "taboo": ["DNA", "Einstein", "Newton", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 232,
+    "guess": "Tennis",
+    "taboo": ["Messi", "Formula 1", "Basket", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 233,
+    "guess": "Formula 1",
+    "taboo": ["Ronaldo", "Basket", "Messi", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 234,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Madonna", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 235,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Messi", "Basket", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 236,
+    "guess": "Pepsi",
+    "taboo": ["Apple", "Nike", "Coca-Cola", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 237,
+    "guess": "Londra",
+    "taboo": ["New York", "Roma", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 238,
+    "guess": "Titanic",
+    "taboo": ["Avatar", "Matrix", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 239,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Inception", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 240,
+    "guess": "Cesare",
+    "taboo": ["Gandhi", "Hitler", "Churchill", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 241,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Cesare", "Churchill", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 242,
+    "guess": "Parigi",
+    "taboo": ["Londra", "Tokyo", "Roma", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 243,
+    "guess": "Pizza",
+    "taboo": ["Pasta", "Gelato", "Hamburger", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 244,
+    "guess": "Telefono",
+    "taboo": ["Bicicletta", "Sedia", "Computer", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 245,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "iPhone", "Google", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 246,
+    "guess": "Titanic",
+    "taboo": ["Joker", "Avatar", "Inception", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 247,
+    "guess": "Pepsi",
+    "taboo": ["Coca-Cola", "Nike", "Adidas", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 248,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Sushi", "Gelato", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 249,
+    "guess": "1984",
+    "taboo": ["Dune", "Il Signore degli Anelli", "It", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 250,
+    "guess": "Google",
+    "taboo": ["ChatGPT", "Robot", "Android", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 251,
+    "guess": "DNA",
+    "taboo": ["Newton", "Einstein", "Atomo", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 252,
+    "guess": "Pasta",
+    "taboo": ["Pizza", "Sushi", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 253,
+    "guess": "Drake",
+    "taboo": ["Adele", "Madonna", "Beatles", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 254,
+    "guess": "Madonna",
+    "taboo": ["Drake", "Adele", "Beatles", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 255,
+    "guess": "Robot",
+    "taboo": ["iPhone", "ChatGPT", "Android", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 256,
+    "guess": "Drake",
+    "taboo": ["Adele", "Madonna", "Eminem", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 257,
+    "guess": "Inception",
+    "taboo": ["Avatar", "Titanic", "Matrix", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 258,
+    "guess": "Parigi",
+    "taboo": ["Roma", "Londra", "Tokyo", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 259,
+    "guess": "Eminem",
+    "taboo": ["Madonna", "Adele", "Drake", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 260,
+    "guess": "Harry Potter",
+    "taboo": ["It", "1984", "Il Signore degli Anelli", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 261,
+    "guess": "Gandhi",
+    "taboo": ["Hitler", "Cesare", "Churchill", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 262,
+    "guess": "Coca-Cola",
+    "taboo": ["Pepsi", "Adidas", "Nike", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 263,
+    "guess": "Avatar",
+    "taboo": ["Joker", "Matrix", "Titanic", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 264,
+    "guess": "Sedia",
+    "taboo": ["Bicicletta", "Computer", "Lampada", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 265,
+    "guess": "Inception",
+    "taboo": ["Joker", "Avatar", "Titanic", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 266,
+    "guess": "Titanic",
+    "taboo": ["Matrix", "Avatar", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 267,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Adele", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 268,
+    "guess": "Lampada",
+    "taboo": ["Telefono", "Sedia", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 269,
+    "guess": "Londra",
+    "taboo": ["Tokyo", "New York", "Parigi", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 270,
+    "guess": "Newton",
+    "taboo": ["Big Bang", "Atomo", "Einstein", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 271,
+    "guess": "Apple",
+    "taboo": ["Nike", "Coca-Cola", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 272,
+    "guess": "Madonna",
+    "taboo": ["Eminem", "Drake", "Adele", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 273,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Titanic", "Inception", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 274,
+    "guess": "Adidas",
+    "taboo": ["Nike", "Coca-Cola", "Pepsi", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 275,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "Parigi", "Roma", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 276,
+    "guess": "Adidas",
+    "taboo": ["Pepsi", "Nike", "Apple", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 277,
+    "guess": "Basket",
+    "taboo": ["Messi", "Formula 1", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 278,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Titanic", "Inception", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 279,
+    "guess": "Pasta",
+    "taboo": ["Gelato", "Sushi", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 280,
+    "guess": "Churchill",
+    "taboo": ["Cesare", "Hitler", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 281,
+    "guess": "DNA",
+    "taboo": ["Newton", "Big Bang", "Atomo", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 282,
+    "guess": "Sedia",
+    "taboo": ["Lampada", "Computer", "Telefono", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 283,
+    "guess": "Hitler",
+    "taboo": ["Gandhi", "Cesare", "Churchill", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 284,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Titanic", "Joker", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 285,
+    "guess": "Joker",
+    "taboo": ["Avatar", "Titanic", "Inception", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 286,
+    "guess": "iPhone",
+    "taboo": ["Robot", "ChatGPT", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 287,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Nike", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 288,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Drake", "Madonna", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 289,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Atomo", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 290,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Adele", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 291,
+    "guess": "Londra",
+    "taboo": ["New York", "Roma", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 292,
+    "guess": "Nike",
+    "taboo": ["Coca-Cola", "Apple", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 293,
+    "guess": "Google",
+    "taboo": ["iPhone", "Robot", "ChatGPT", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 294,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Roma", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 295,
+    "guess": "Pasta",
+    "taboo": ["Pizza", "Gelato", "Hamburger", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 296,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Sushi", "Pizza", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 297,
+    "guess": "Sushi",
+    "taboo": ["Pizza", "Hamburger", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 298,
+    "guess": "Harry Potter",
+    "taboo": ["Dune", "1984", "It", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 299,
+    "guess": "Sushi",
+    "taboo": ["Pasta", "Gelato", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 300,
+    "guess": "Einstein",
+    "taboo": ["DNA", "Atomo", "Big Bang", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 301,
+    "guess": "DNA",
+    "taboo": ["Atomo", "Newton", "Einstein", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 302,
+    "guess": "Inception",
+    "taboo": ["Avatar", "Titanic", "Matrix", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 303,
+    "guess": "1984",
+    "taboo": ["Harry Potter", "Il Signore degli Anelli", "It", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 304,
+    "guess": "Gandhi",
+    "taboo": ["Napoleone", "Cesare", "Hitler", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 305,
+    "guess": "Atomo",
+    "taboo": ["Big Bang", "DNA", "Newton", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 306,
+    "guess": "Joker",
+    "taboo": ["Inception", "Avatar", "Titanic", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 307,
+    "guess": "Titanic",
+    "taboo": ["Matrix", "Avatar", "Joker", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 308,
+    "guess": "Telefono",
+    "taboo": ["Lampada", "Bicicletta", "Sedia", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 309,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Titanic", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 310,
+    "guess": "Titanic",
+    "taboo": ["Joker", "Inception", "Avatar", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 311,
+    "guess": "Eminem",
+    "taboo": ["Drake", "Madonna", "Beatles", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 312,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Hitler", "Cesare", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 313,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Basket", "Messi", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 314,
+    "guess": "Dune",
+    "taboo": ["1984", "It", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 315,
+    "guess": "Sedia",
+    "taboo": ["Telefono", "Lampada", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 316,
+    "guess": "Ronaldo",
+    "taboo": ["Basket", "Tennis", "Messi", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 317,
+    "guess": "Big Bang",
+    "taboo": ["DNA", "Einstein", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 318,
+    "guess": "New York",
+    "taboo": ["Parigi", "Roma", "Tokyo", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 319,
+    "guess": "Inception",
+    "taboo": ["Titanic", "Matrix", "Joker", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 320,
+    "guess": "1984",
+    "taboo": ["It", "Harry Potter", "Il Signore degli Anelli", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 321,
+    "guess": "New York",
+    "taboo": ["Roma", "Londra", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 322,
+    "guess": "Android",
+    "taboo": ["iPhone", "Robot", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 323,
+    "guess": "Adidas",
+    "taboo": ["Nike", "Coca-Cola", "Apple", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 324,
+    "guess": "New York",
+    "taboo": ["Roma", "Londra", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 325,
+    "guess": "Adele",
+    "taboo": ["Madonna", "Drake", "Eminem", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 326,
+    "guess": "Inception",
+    "taboo": ["Titanic", "Joker", "Matrix", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 327,
+    "guess": "iPhone",
+    "taboo": ["Android", "Google", "Robot", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 328,
+    "guess": "Tennis",
+    "taboo": ["Messi", "Basket", "Formula 1", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 329,
+    "guess": "Napoleone",
+    "taboo": ["Cesare", "Gandhi", "Hitler", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 330,
+    "guess": "Messi",
+    "taboo": ["Basket", "Formula 1", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 331,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Eminem", "Drake", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 332,
+    "guess": "Formula 1",
+    "taboo": ["Messi", "Basket", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 333,
+    "guess": "Bicicletta",
+    "taboo": ["Computer", "Telefono", "Lampada", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 334,
+    "guess": "Drake",
+    "taboo": ["Madonna", "Eminem", "Adele", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 335,
+    "guess": "Eminem",
+    "taboo": ["Drake", "Beatles", "Madonna", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 336,
+    "guess": "Avatar",
+    "taboo": ["Joker", "Titanic", "Inception", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 337,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Drake", "Madonna", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 338,
+    "guess": "Titanic",
+    "taboo": ["Avatar", "Matrix", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 339,
+    "guess": "Avatar",
+    "taboo": ["Matrix", "Titanic", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 340,
+    "guess": "Beatles",
+    "taboo": ["Eminem", "Drake", "Adele", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 341,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Cesare", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 342,
+    "guess": "Hitler",
+    "taboo": ["Cesare", "Churchill", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 343,
+    "guess": "Inception",
+    "taboo": ["Avatar", "Matrix", "Titanic", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 344,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Big Bang", "Einstein", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 345,
+    "guess": "Gandhi",
+    "taboo": ["Napoleone", "Cesare", "Hitler", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 346,
+    "guess": "Churchill",
+    "taboo": ["Gandhi", "Hitler", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 347,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "DNA", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 348,
+    "guess": "Google",
+    "taboo": ["Robot", "iPhone", "Android", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 349,
+    "guess": "Google",
+    "taboo": ["Android", "iPhone", "Robot", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 350,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Avatar", "Titanic", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 351,
+    "guess": "Londra",
+    "taboo": ["Roma", "New York", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 352,
+    "guess": "Newton",
+    "taboo": ["Atomo", "DNA", "Big Bang", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 353,
+    "guess": "Roma",
+    "taboo": ["Parigi", "Tokyo", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 354,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Messi", "Formula 1", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 355,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Hamburger", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 356,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "Google", "Android", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 357,
+    "guess": "Android",
+    "taboo": ["Google", "iPhone", "Robot", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 358,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Pasta", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 359,
+    "guess": "Harry Potter",
+    "taboo": ["Il Signore degli Anelli", "It", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 360,
+    "guess": "Cesare",
+    "taboo": ["Hitler", "Napoleone", "Churchill", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 361,
+    "guess": "Big Bang",
+    "taboo": ["Atomo", "Einstein", "Newton", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 362,
+    "guess": "Messi",
+    "taboo": ["Formula 1", "Basket", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 363,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Titanic", "Inception", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 364,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Gandhi", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 365,
+    "guess": "Napoleone",
+    "taboo": ["Hitler", "Gandhi", "Churchill", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 366,
+    "guess": "Apple",
+    "taboo": ["Adidas", "Pepsi", "Coca-Cola", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 367,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Atomo", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 368,
+    "guess": "iPhone",
+    "taboo": ["Google", "ChatGPT", "Android", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 369,
+    "guess": "New York",
+    "taboo": ["Londra", "Roma", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 370,
+    "guess": "Nike",
+    "taboo": ["Apple", "Pepsi", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 371,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Pizza", "Gelato", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 372,
+    "guess": "Matrix",
+    "taboo": ["Titanic", "Joker", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 373,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 374,
+    "guess": "Formula 1",
+    "taboo": ["Ronaldo", "Messi", "Basket", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 375,
+    "guess": "Matrix",
+    "taboo": ["Avatar", "Inception", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 376,
+    "guess": "Roma",
+    "taboo": ["Parigi", "Tokyo", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 377,
+    "guess": "Madonna",
+    "taboo": ["Drake", "Eminem", "Beatles", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 378,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Formula 1", "Messi", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 379,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Drake", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 380,
+    "guess": "Sushi",
+    "taboo": ["Pizza", "Gelato", "Pasta", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 381,
+    "guess": "Big Bang",
+    "taboo": ["Einstein", "Atomo", "DNA", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 382,
+    "guess": "Nike",
+    "taboo": ["Apple", "Coca-Cola", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 383,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "New York", "Roma", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 384,
+    "guess": "Titanic",
+    "taboo": ["Inception", "Matrix", "Joker", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 385,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Drake", "Beatles", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 386,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Joker", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 387,
+    "guess": "Roma",
+    "taboo": ["Londra", "New York", "Parigi", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 388,
+    "guess": "Joker",
+    "taboo": ["Inception", "Titanic", "Avatar", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 389,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Drake", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 390,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Pizza", "Gelato", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 391,
+    "guess": "Matrix",
+    "taboo": ["Joker", "Avatar", "Inception", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 392,
+    "guess": "Android",
+    "taboo": ["iPhone", "Robot", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 393,
+    "guess": "Titanic",
+    "taboo": ["Matrix", "Inception", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 394,
+    "guess": "Sushi",
+    "taboo": ["Pasta", "Pizza", "Gelato", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 395,
+    "guess": "Titanic",
+    "taboo": ["Inception", "Matrix", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 396,
+    "guess": "Messi",
+    "taboo": ["Tennis", "Formula 1", "Basket", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 397,
+    "guess": "Einstein",
+    "taboo": ["Newton", "Atomo", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 398,
+    "guess": "Inception",
+    "taboo": ["Avatar", "Titanic", "Joker", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 399,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Pasta", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 400,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Atomo", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 401,
+    "guess": "Bicicletta",
+    "taboo": ["Telefono", "Sedia", "Lampada", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 402,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "iPhone", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 403,
+    "guess": "Hamburger",
+    "taboo": ["Sushi", "Pasta", "Gelato", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 404,
+    "guess": "DNA",
+    "taboo": ["Newton", "Big Bang", "Einstein", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 405,
+    "guess": "Churchill",
+    "taboo": ["Cesare", "Gandhi", "Hitler", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 406,
+    "guess": "Lampada",
+    "taboo": ["Telefono", "Bicicletta", "Computer", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 407,
+    "guess": "Sushi",
+    "taboo": ["Pizza", "Hamburger", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 408,
+    "guess": "Eminem",
+    "taboo": ["Beatles", "Madonna", "Drake", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 409,
+    "guess": "Titanic",
+    "taboo": ["Avatar", "Joker", "Matrix", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 410,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Drake", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 411,
+    "guess": "iPhone",
+    "taboo": ["Robot", "Google", "ChatGPT", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 412,
+    "guess": "Nike",
+    "taboo": ["Coca-Cola", "Apple", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 413,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "Parigi", "New York", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 414,
+    "guess": "Eminem",
+    "taboo": ["Drake", "Adele", "Beatles", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 415,
+    "guess": "DNA",
+    "taboo": ["Newton", "Big Bang", "Einstein", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 416,
+    "guess": "New York",
+    "taboo": ["Roma", "Tokyo", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 417,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Titanic", "Inception", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 418,
+    "guess": "Bicicletta",
+    "taboo": ["Lampada", "Telefono", "Sedia", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 419,
+    "guess": "Messi",
+    "taboo": ["Tennis", "Basket", "Formula 1", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 420,
+    "guess": "Titanic",
+    "taboo": ["Avatar", "Inception", "Matrix", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 421,
+    "guess": "Hamburger",
+    "taboo": ["Gelato", "Sushi", "Pasta", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 422,
+    "guess": "Harry Potter",
+    "taboo": ["1984", "Il Signore degli Anelli", "It", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 423,
+    "guess": "Coca-Cola",
+    "taboo": ["Nike", "Pepsi", "Apple", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 424,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Hitler", "Churchill", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 425,
+    "guess": "Joker",
+    "taboo": ["Titanic", "Inception", "Avatar", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 426,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Atomo", "Big Bang", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 427,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Cesare", "Churchill", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 428,
+    "guess": "It",
+    "taboo": ["Dune", "Il Signore degli Anelli", "1984", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 429,
+    "guess": "Pepsi",
+    "taboo": ["Apple", "Nike", "Coca-Cola", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 430,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["It", "Dune", "Harry Potter", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 431,
+    "guess": "Messi",
+    "taboo": ["Basket", "Formula 1", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 432,
+    "guess": "Sedia",
+    "taboo": ["Bicicletta", "Telefono", "Computer", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 433,
+    "guess": "Apple",
+    "taboo": ["Coca-Cola", "Nike", "Adidas", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 434,
+    "guess": "Adidas",
+    "taboo": ["Nike", "Apple", "Coca-Cola", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 435,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Gandhi", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 436,
+    "guess": "It",
+    "taboo": ["1984", "Dune", "Harry Potter", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 437,
+    "guess": "DNA",
+    "taboo": ["Big Bang", "Einstein", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 438,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Madonna", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 439,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Napoleone", "Cesare", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 440,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Basket", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 441,
+    "guess": "Harry Potter",
+    "taboo": ["Dune", "1984", "Il Signore degli Anelli", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 442,
+    "guess": "Joker",
+    "taboo": ["Avatar", "Matrix", "Titanic", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 443,
+    "guess": "Sedia",
+    "taboo": ["Lampada", "Bicicletta", "Telefono", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 444,
+    "guess": "Robot",
+    "taboo": ["ChatGPT", "Android", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 445,
+    "guess": "Adidas",
+    "taboo": ["Apple", "Coca-Cola", "Pepsi", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 446,
+    "guess": "Bicicletta",
+    "taboo": ["Lampada", "Computer", "Telefono", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 447,
+    "guess": "Tennis",
+    "taboo": ["Formula 1", "Basket", "Messi", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 448,
+    "guess": "Avatar",
+    "taboo": ["Joker", "Titanic", "Inception", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 449,
+    "guess": "Churchill",
+    "taboo": ["Gandhi", "Hitler", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 450,
+    "guess": "It",
+    "taboo": ["1984", "Il Signore degli Anelli", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 451,
+    "guess": "iPhone",
+    "taboo": ["ChatGPT", "Google", "Robot", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 452,
+    "guess": "Android",
+    "taboo": ["iPhone", "Robot", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 453,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Basket", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 454,
+    "guess": "It",
+    "taboo": ["Dune", "1984", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 455,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Madonna", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 456,
+    "guess": "Madonna",
+    "taboo": ["Eminem", "Adele", "Drake", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 457,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Pasta", "Hamburger", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 458,
+    "guess": "Pasta",
+    "taboo": ["Gelato", "Sushi", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 459,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "New York", "Londra", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 460,
+    "guess": "Beatles",
+    "taboo": ["Eminem", "Madonna", "Drake", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 461,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Nike", "Coca-Cola", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 462,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Pizza", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 463,
+    "guess": "Telefono",
+    "taboo": ["Sedia", "Computer", "Lampada", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 464,
+    "guess": "Pizza",
+    "taboo": ["Hamburger", "Gelato", "Pasta", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 465,
+    "guess": "Londra",
+    "taboo": ["New York", "Parigi", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 466,
+    "guess": "Robot",
+    "taboo": ["Google", "Android", "iPhone", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 467,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "Android", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 468,
+    "guess": "Sushi",
+    "taboo": ["Pizza", "Hamburger", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 469,
+    "guess": "Gelato",
+    "taboo": ["Pizza", "Sushi", "Hamburger", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 470,
+    "guess": "Android",
+    "taboo": ["Google", "ChatGPT", "iPhone", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 471,
+    "guess": "Robot",
+    "taboo": ["Android", "Google", "ChatGPT", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 472,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Titanic", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 473,
+    "guess": "Avatar",
+    "taboo": ["Titanic", "Matrix", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 474,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Formula 1", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 475,
+    "guess": "Hamburger",
+    "taboo": ["Gelato", "Sushi", "Pasta", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 476,
+    "guess": "Joker",
+    "taboo": ["Titanic", "Matrix", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 477,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["It", "Harry Potter", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 478,
+    "guess": "Atomo",
+    "taboo": ["Einstein", "Big Bang", "Newton", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 479,
+    "guess": "Eminem",
+    "taboo": ["Beatles", "Drake", "Madonna", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 480,
+    "guess": "Matrix",
+    "taboo": ["Titanic", "Avatar", "Joker", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 481,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "DNA", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 482,
+    "guess": "Coca-Cola",
+    "taboo": ["Apple", "Pepsi", "Adidas", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 483,
+    "guess": "Cesare",
+    "taboo": ["Napoleone", "Churchill", "Gandhi", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 484,
+    "guess": "It",
+    "taboo": ["1984", "Dune", "Harry Potter", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 485,
+    "guess": "Napoleone",
+    "taboo": ["Cesare", "Hitler", "Churchill", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 486,
+    "guess": "Gelato",
+    "taboo": ["Sushi", "Pizza", "Pasta", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 487,
+    "guess": "Adidas",
+    "taboo": ["Apple", "Coca-Cola", "Pepsi", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 488,
+    "guess": "Basket",
+    "taboo": ["Messi", "Tennis", "Ronaldo", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 489,
+    "guess": "Pasta",
+    "taboo": ["Gelato", "Hamburger", "Pizza", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 490,
+    "guess": "Einstein",
+    "taboo": ["Newton", "DNA", "Atomo", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 491,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Joker", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 492,
+    "guess": "Pepsi",
+    "taboo": ["Apple", "Nike", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 493,
+    "guess": "1984",
+    "taboo": ["Il Signore degli Anelli", "It", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 494,
+    "guess": "Tennis",
+    "taboo": ["Basket", "Formula 1", "Messi", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 495,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Gelato", "Sushi", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 496,
+    "guess": "Roma",
+    "taboo": ["Tokyo", "Parigi", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 497,
+    "guess": "Messi",
+    "taboo": ["Tennis", "Basket", "Ronaldo", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 498,
+    "guess": "Nike",
+    "taboo": ["Adidas", "Coca-Cola", "Apple", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 499,
+    "guess": "Beatles",
+    "taboo": ["Madonna", "Drake", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 500,
+    "guess": "Robot",
+    "taboo": ["Android", "iPhone", "Google", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 501,
+    "guess": "Robot",
+    "taboo": ["Android", "ChatGPT", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 502,
+    "guess": "Eminem",
+    "taboo": ["Beatles", "Adele", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 503,
+    "guess": "It",
+    "taboo": ["Il Signore degli Anelli", "Harry Potter", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 504,
+    "guess": "Avatar",
+    "taboo": ["Titanic", "Joker", "Matrix", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 505,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Atomo", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 506,
+    "guess": "Hitler",
+    "taboo": ["Napoleone", "Cesare", "Gandhi", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 507,
+    "guess": "Joker",
+    "taboo": ["Titanic", "Avatar", "Matrix", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 508,
+    "guess": "ChatGPT",
+    "taboo": ["iPhone", "Robot", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 509,
+    "guess": "Joker",
+    "taboo": ["Inception", "Titanic", "Matrix", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 510,
+    "guess": "Nike",
+    "taboo": ["Apple", "Coca-Cola", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 511,
+    "guess": "Telefono",
+    "taboo": ["Bicicletta", "Lampada", "Sedia", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 512,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Il Signore degli Anelli", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 513,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Formula 1", "Basket", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 514,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Eminem", "Madonna", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 515,
+    "guess": "Roma",
+    "taboo": ["Tokyo", "Londra", "Parigi", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 516,
+    "guess": "Titanic",
+    "taboo": ["Avatar", "Joker", "Matrix", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 517,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "New York", "Parigi", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 518,
+    "guess": "Robot",
+    "taboo": ["Google", "Android", "iPhone", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 519,
+    "guess": "Pasta",
+    "taboo": ["Pizza", "Sushi", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 520,
+    "guess": "Gandhi",
+    "taboo": ["Cesare", "Hitler", "Napoleone", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 521,
+    "guess": "Nike",
+    "taboo": ["Adidas", "Apple", "Coca-Cola", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 522,
+    "guess": "Madonna",
+    "taboo": ["Beatles", "Drake", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 523,
+    "guess": "Madonna",
+    "taboo": ["Beatles", "Adele", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 524,
+    "guess": "Big Bang",
+    "taboo": ["Newton", "Einstein", "Atomo", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 525,
+    "guess": "Eminem",
+    "taboo": ["Beatles", "Drake", "Adele", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 526,
+    "guess": "Atomo",
+    "taboo": ["Einstein", "DNA", "Big Bang", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 527,
+    "guess": "Londra",
+    "taboo": ["Roma", "New York", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 528,
+    "guess": "Robot",
+    "taboo": ["Android", "iPhone", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 529,
+    "guess": "Avatar",
+    "taboo": ["Matrix", "Inception", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 530,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Coca-Cola", "Adidas", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 531,
+    "guess": "It",
+    "taboo": ["Harry Potter", "1984", "Dune", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 532,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Beatles", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 533,
+    "guess": "Londra",
+    "taboo": ["Roma", "Tokyo", "Parigi", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 534,
+    "guess": "Gandhi",
+    "taboo": ["Churchill", "Cesare", "Hitler", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 535,
+    "guess": "Basket",
+    "taboo": ["Messi", "Tennis", "Formula 1", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 536,
+    "guess": "Apple",
+    "taboo": ["Coca-Cola", "Adidas", "Nike", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 537,
+    "guess": "Drake",
+    "taboo": ["Madonna", "Beatles", "Eminem", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 538,
+    "guess": "Sushi",
+    "taboo": ["Pasta", "Hamburger", "Pizza", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 539,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Coca-Cola", "Nike", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 540,
+    "guess": "Sushi",
+    "taboo": ["Pasta", "Gelato", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 541,
+    "guess": "Pepsi",
+    "taboo": ["Nike", "Apple", "Coca-Cola", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 542,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Basket", "Messi", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 543,
+    "guess": "Beatles",
+    "taboo": ["Drake", "Madonna", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 544,
+    "guess": "Tokyo",
+    "taboo": ["Parigi", "Londra", "New York", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 545,
+    "guess": "Inception",
+    "taboo": ["Joker", "Avatar", "Matrix", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 546,
+    "guess": "Matrix",
+    "taboo": ["Avatar", "Inception", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 547,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Pizza", "Pasta", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 548,
+    "guess": "Bicicletta",
+    "taboo": ["Computer", "Sedia", "Lampada", "Telefono"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 549,
+    "guess": "Cesare",
+    "taboo": ["Hitler", "Napoleone", "Gandhi", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 550,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "Google", "iPhone", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 551,
+    "guess": "Joker",
+    "taboo": ["Inception", "Matrix", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 552,
+    "guess": "Coca-Cola",
+    "taboo": ["Nike", "Pepsi", "Apple", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 553,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Titanic", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 554,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Eminem", "Madonna", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 555,
+    "guess": "Hamburger",
+    "taboo": ["Pasta", "Sushi", "Pizza", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 556,
+    "guess": "Einstein",
+    "taboo": ["DNA", "Big Bang", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 557,
+    "guess": "Avatar",
+    "taboo": ["Matrix", "Titanic", "Joker", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 558,
+    "guess": "Hamburger",
+    "taboo": ["Pizza", "Pasta", "Gelato", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 559,
+    "guess": "Hamburger",
+    "taboo": ["Sushi", "Pasta", "Pizza", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 560,
+    "guess": "Basket",
+    "taboo": ["Messi", "Tennis", "Formula 1", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 561,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["1984", "Dune", "Harry Potter", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 562,
+    "guess": "Madonna",
+    "taboo": ["Beatles", "Eminem", "Drake", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 563,
+    "guess": "Nike",
+    "taboo": ["Coca-Cola", "Apple", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 564,
+    "guess": "Apple",
+    "taboo": ["Coca-Cola", "Pepsi", "Adidas", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 565,
+    "guess": "Lampada",
+    "taboo": ["Sedia", "Telefono", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 566,
+    "guess": "Londra",
+    "taboo": ["Parigi", "Tokyo", "New York", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 567,
+    "guess": "Atomo",
+    "taboo": ["Newton", "DNA", "Big Bang", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 568,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Drake", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 569,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Avatar", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 570,
+    "guess": "Formula 1",
+    "taboo": ["Messi", "Basket", "Tennis", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 571,
+    "guess": "Coca-Cola",
+    "taboo": ["Nike", "Adidas", "Apple", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 572,
+    "guess": "Cesare",
+    "taboo": ["Gandhi", "Churchill", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 573,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Big Bang", "Newton", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 574,
+    "guess": "Nike",
+    "taboo": ["Pepsi", "Adidas", "Apple", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 575,
+    "guess": "Pasta",
+    "taboo": ["Pizza", "Sushi", "Hamburger", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 576,
+    "guess": "Titanic",
+    "taboo": ["Joker", "Inception", "Avatar", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 577,
+    "guess": "Napoleone",
+    "taboo": ["Churchill", "Cesare", "Gandhi", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 578,
+    "guess": "Apple",
+    "taboo": ["Nike", "Adidas", "Pepsi", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 579,
+    "guess": "Drake",
+    "taboo": ["Adele", "Eminem", "Beatles", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 580,
+    "guess": "Inception",
+    "taboo": ["Joker", "Avatar", "Matrix", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 581,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Newton", "Atomo", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 582,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Gelato", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 583,
+    "guess": "Londra",
+    "taboo": ["Parigi", "New York", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 584,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Roma", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 585,
+    "guess": "Bicicletta",
+    "taboo": ["Computer", "Telefono", "Lampada", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 586,
+    "guess": "Dune",
+    "taboo": ["Il Signore degli Anelli", "1984", "Harry Potter", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 587,
+    "guess": "ChatGPT",
+    "taboo": ["iPhone", "Robot", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 588,
+    "guess": "Joker",
+    "taboo": ["Avatar", "Matrix", "Titanic", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 589,
+    "guess": "Titanic",
+    "taboo": ["Joker", "Inception", "Matrix", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 590,
+    "guess": "Dune",
+    "taboo": ["It", "Il Signore degli Anelli", "1984", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 591,
+    "guess": "Basket",
+    "taboo": ["Ronaldo", "Tennis", "Formula 1", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 592,
+    "guess": "Joker",
+    "taboo": ["Inception", "Titanic", "Matrix", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 593,
+    "guess": "Pasta",
+    "taboo": ["Hamburger", "Pizza", "Sushi", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 594,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Madonna", "Beatles", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 595,
+    "guess": "New York",
+    "taboo": ["Roma", "Londra", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 596,
+    "guess": "1984",
+    "taboo": ["It", "Harry Potter", "Il Signore degli Anelli", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 597,
+    "guess": "Android",
+    "taboo": ["Google", "ChatGPT", "iPhone", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 598,
+    "guess": "Coca-Cola",
+    "taboo": ["Apple", "Nike", "Pepsi", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 599,
+    "guess": "Gandhi",
+    "taboo": ["Cesare", "Churchill", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 600,
+    "guess": "Android",
+    "taboo": ["Robot", "ChatGPT", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 601,
+    "guess": "Churchill",
+    "taboo": ["Napoleone", "Gandhi", "Cesare", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 602,
+    "guess": "Sedia",
+    "taboo": ["Computer", "Bicicletta", "Telefono", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 603,
+    "guess": "Gandhi",
+    "taboo": ["Hitler", "Churchill", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 604,
+    "guess": "Gandhi",
+    "taboo": ["Napoleone", "Cesare", "Hitler", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 605,
+    "guess": "Google",
+    "taboo": ["Android", "ChatGPT", "Robot", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 606,
+    "guess": "1984",
+    "taboo": ["Dune", "It", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 607,
+    "guess": "Sushi",
+    "taboo": ["Pasta", "Gelato", "Pizza", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 608,
+    "guess": "Cesare",
+    "taboo": ["Gandhi", "Napoleone", "Hitler", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 609,
+    "guess": "Cesare",
+    "taboo": ["Hitler", "Gandhi", "Churchill", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 610,
+    "guess": "Nike",
+    "taboo": ["Adidas", "Coca-Cola", "Apple", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 611,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Drake", "Madonna", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 612,
+    "guess": "Adele",
+    "taboo": ["Drake", "Madonna", "Beatles", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 613,
+    "guess": "Robot",
+    "taboo": ["ChatGPT", "iPhone", "Android", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 614,
+    "guess": "It",
+    "taboo": ["Dune", "Il Signore degli Anelli", "Harry Potter", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 615,
+    "guess": "Lampada",
+    "taboo": ["Telefono", "Bicicletta", "Computer", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 616,
+    "guess": "DNA",
+    "taboo": ["Big Bang", "Atomo", "Newton", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 617,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "Roma", "New York", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 618,
+    "guess": "Bicicletta",
+    "taboo": ["Sedia", "Telefono", "Lampada", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 619,
+    "guess": "Robot",
+    "taboo": ["Android", "iPhone", "Google", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 620,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Titanic", "Inception", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 621,
+    "guess": "Cesare",
+    "taboo": ["Napoleone", "Hitler", "Gandhi", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 622,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Ronaldo", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 623,
+    "guess": "Telefono",
+    "taboo": ["Sedia", "Computer", "Bicicletta", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 624,
+    "guess": "Parigi",
+    "taboo": ["New York", "Londra", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 625,
+    "guess": "Cesare",
+    "taboo": ["Churchill", "Gandhi", "Hitler", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 626,
+    "guess": "Newton",
+    "taboo": ["Atomo", "DNA", "Big Bang", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 627,
+    "guess": "It",
+    "taboo": ["Il Signore degli Anelli", "1984", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 628,
+    "guess": "Pasta",
+    "taboo": ["Hamburger", "Sushi", "Gelato", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 629,
+    "guess": "Big Bang",
+    "taboo": ["Einstein", "DNA", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 630,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["1984", "Harry Potter", "It", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 631,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["It", "Dune", "1984", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 632,
+    "guess": "Madonna",
+    "taboo": ["Eminem", "Drake", "Adele", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 633,
+    "guess": "Hamburger",
+    "taboo": ["Pizza", "Gelato", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 634,
+    "guess": "Big Bang",
+    "taboo": ["Atomo", "DNA", "Einstein", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 635,
+    "guess": "Apple",
+    "taboo": ["Coca-Cola", "Nike", "Adidas", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 636,
+    "guess": "Lampada",
+    "taboo": ["Telefono", "Bicicletta", "Sedia", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 637,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Formula 1", "Basket", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 638,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Avatar", "Titanic", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 639,
+    "guess": "Google",
+    "taboo": ["Android", "iPhone", "ChatGPT", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 640,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Basket", "Messi", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 641,
+    "guess": "Joker",
+    "taboo": ["Avatar", "Matrix", "Inception", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 642,
+    "guess": "Robot",
+    "taboo": ["Google", "iPhone", "Android", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 643,
+    "guess": "Pasta",
+    "taboo": ["Hamburger", "Gelato", "Pizza", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 644,
+    "guess": "DNA",
+    "taboo": ["Newton", "Einstein", "Big Bang", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 645,
+    "guess": "Newton",
+    "taboo": ["Big Bang", "Atomo", "DNA", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 646,
+    "guess": "Einstein",
+    "taboo": ["Newton", "Atomo", "Big Bang", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 647,
+    "guess": "1984",
+    "taboo": ["It", "Dune", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 648,
+    "guess": "Avatar",
+    "taboo": ["Titanic", "Matrix", "Joker", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 649,
+    "guess": "Hitler",
+    "taboo": ["Gandhi", "Napoleone", "Cesare", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 650,
+    "guess": "Gelato",
+    "taboo": ["Pasta", "Hamburger", "Sushi", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 651,
+    "guess": "Nike",
+    "taboo": ["Apple", "Adidas", "Pepsi", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 652,
+    "guess": "Hitler",
+    "taboo": ["Cesare", "Churchill", "Gandhi", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 653,
+    "guess": "Madonna",
+    "taboo": ["Adele", "Beatles", "Drake", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 654,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Big Bang", "Einstein", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 655,
+    "guess": "Lampada",
+    "taboo": ["Computer", "Bicicletta", "Telefono", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 656,
+    "guess": "It",
+    "taboo": ["Il Signore degli Anelli", "Dune", "Harry Potter", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 657,
+    "guess": "Google",
+    "taboo": ["iPhone", "ChatGPT", "Android", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 658,
+    "guess": "Hitler",
+    "taboo": ["Churchill", "Gandhi", "Cesare", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 659,
+    "guess": "Basket",
+    "taboo": ["Messi", "Formula 1", "Tennis", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 660,
+    "guess": "Bicicletta",
+    "taboo": ["Lampada", "Sedia", "Telefono", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 661,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Dune", "1984", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 662,
+    "guess": "Computer",
+    "taboo": ["Sedia", "Lampada", "Telefono", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 663,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 664,
+    "guess": "Churchill",
+    "taboo": ["Cesare", "Hitler", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 665,
+    "guess": "Sushi",
+    "taboo": ["Hamburger", "Pizza", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 666,
+    "guess": "Avatar",
+    "taboo": ["Matrix", "Inception", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 667,
+    "guess": "Nike",
+    "taboo": ["Adidas", "Apple", "Coca-Cola", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 668,
+    "guess": "Roma",
+    "taboo": ["Tokyo", "Parigi", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 669,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Basket", "Formula 1", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 670,
+    "guess": "Robot",
+    "taboo": ["ChatGPT", "Google", "iPhone", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 671,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Dune", "Il Signore degli Anelli", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 672,
+    "guess": "Pizza",
+    "taboo": ["Pasta", "Hamburger", "Gelato", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 673,
+    "guess": "Bicicletta",
+    "taboo": ["Computer", "Telefono", "Lampada", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 674,
+    "guess": "Google",
+    "taboo": ["iPhone", "Robot", "Android", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 675,
+    "guess": "Pizza",
+    "taboo": ["Hamburger", "Gelato", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 676,
+    "guess": "Cesare",
+    "taboo": ["Napoleone", "Churchill", "Gandhi", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 677,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Big Bang", "Newton", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 678,
+    "guess": "Beatles",
+    "taboo": ["Eminem", "Drake", "Madonna", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 679,
+    "guess": "Londra",
+    "taboo": ["New York", "Tokyo", "Roma", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 680,
+    "guess": "1984",
+    "taboo": ["It", "Harry Potter", "Dune", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 681,
+    "guess": "Android",
+    "taboo": ["Robot", "iPhone", "ChatGPT", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 682,
+    "guess": "Lampada",
+    "taboo": ["Sedia", "Telefono", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 683,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Formula 1", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 684,
+    "guess": "DNA",
+    "taboo": ["Big Bang", "Atomo", "Newton", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 685,
+    "guess": "Newton",
+    "taboo": ["DNA", "Big Bang", "Atomo", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 686,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["It", "1984", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 687,
+    "guess": "Matrix",
+    "taboo": ["Avatar", "Inception", "Titanic", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 688,
+    "guess": "Churchill",
+    "taboo": ["Napoleone", "Cesare", "Gandhi", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 689,
+    "guess": "Roma",
+    "taboo": ["New York", "Tokyo", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 690,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Basket", "Formula 1", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 691,
+    "guess": "Napoleone",
+    "taboo": ["Gandhi", "Churchill", "Hitler", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 692,
+    "guess": "Basket",
+    "taboo": ["Formula 1", "Ronaldo", "Tennis", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 693,
+    "guess": "Drake",
+    "taboo": ["Adele", "Beatles", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 694,
+    "guess": "Parigi",
+    "taboo": ["Londra", "Roma", "Tokyo", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 695,
+    "guess": "Cesare",
+    "taboo": ["Churchill", "Hitler", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 696,
+    "guess": "ChatGPT",
+    "taboo": ["Android", "Robot", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 697,
+    "guess": "Matrix",
+    "taboo": ["Avatar", "Joker", "Inception", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 698,
+    "guess": "Pizza",
+    "taboo": ["Hamburger", "Sushi", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 699,
+    "guess": "Hitler",
+    "taboo": ["Gandhi", "Churchill", "Cesare", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 700,
+    "guess": "Londra",
+    "taboo": ["Tokyo", "Roma", "New York", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 701,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Big Bang", "Atomo", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 702,
+    "guess": "Bicicletta",
+    "taboo": ["Telefono", "Sedia", "Lampada", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 703,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "New York", "Roma", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 704,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Gelato", "Hamburger", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 705,
+    "guess": "Computer",
+    "taboo": ["Telefono", "Bicicletta", "Lampada", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 706,
+    "guess": "Joker",
+    "taboo": ["Avatar", "Titanic", "Matrix", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 707,
+    "guess": "Londra",
+    "taboo": ["Roma", "Parigi", "Tokyo", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 708,
+    "guess": "Londra",
+    "taboo": ["Parigi", "Roma", "New York", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 709,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Drake", "Beatles", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 710,
+    "guess": "Beatles",
+    "taboo": ["Eminem", "Adele", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 711,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "DNA", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 712,
+    "guess": "Napoleone",
+    "taboo": ["Churchill", "Cesare", "Hitler", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 713,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "Roma", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 714,
+    "guess": "Pepsi",
+    "taboo": ["Coca-Cola", "Nike", "Adidas", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 715,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Newton", "Einstein", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 716,
+    "guess": "Titanic",
+    "taboo": ["Avatar", "Inception", "Joker", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 717,
+    "guess": "Android",
+    "taboo": ["iPhone", "Google", "ChatGPT", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 718,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Joker", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 719,
+    "guess": "Basket",
+    "taboo": ["Messi", "Tennis", "Ronaldo", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 720,
+    "guess": "Joker",
+    "taboo": ["Titanic", "Inception", "Avatar", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 721,
+    "guess": "Sedia",
+    "taboo": ["Telefono", "Computer", "Lampada", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 722,
+    "guess": "Lampada",
+    "taboo": ["Bicicletta", "Telefono", "Computer", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 723,
+    "guess": "Beatles",
+    "taboo": ["Drake", "Madonna", "Eminem", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 724,
+    "guess": "Adele",
+    "taboo": ["Drake", "Madonna", "Beatles", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 725,
+    "guess": "Pepsi",
+    "taboo": ["Coca-Cola", "Apple", "Nike", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 726,
+    "guess": "Basket",
+    "taboo": ["Ronaldo", "Tennis", "Formula 1", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 727,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Hamburger", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 728,
+    "guess": "Hamburger",
+    "taboo": ["Sushi", "Pizza", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 729,
+    "guess": "Madonna",
+    "taboo": ["Eminem", "Beatles", "Drake", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 730,
+    "guess": "Roma",
+    "taboo": ["Londra", "Parigi", "Tokyo", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 731,
+    "guess": "Formula 1",
+    "taboo": ["Messi", "Tennis", "Basket", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 732,
+    "guess": "Matrix",
+    "taboo": ["Avatar", "Titanic", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 733,
+    "guess": "Roma",
+    "taboo": ["Parigi", "Tokyo", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 734,
+    "guess": "Hitler",
+    "taboo": ["Cesare", "Churchill", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 735,
+    "guess": "New York",
+    "taboo": ["Londra", "Tokyo", "Roma", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 736,
+    "guess": "Tennis",
+    "taboo": ["Formula 1", "Ronaldo", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 737,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Basket", "Messi", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 738,
+    "guess": "Lampada",
+    "taboo": ["Sedia", "Computer", "Telefono", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 739,
+    "guess": "Drake",
+    "taboo": ["Eminem", "Adele", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 740,
+    "guess": "Londra",
+    "taboo": ["New York", "Parigi", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 741,
+    "guess": "Adidas",
+    "taboo": ["Pepsi", "Apple", "Nike", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 742,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Madonna", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 743,
+    "guess": "Bicicletta",
+    "taboo": ["Sedia", "Computer", "Telefono", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 744,
+    "guess": "iPhone",
+    "taboo": ["Android", "Robot", "Google", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 745,
+    "guess": "Nike",
+    "taboo": ["Pepsi", "Apple", "Coca-Cola", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 746,
+    "guess": "Churchill",
+    "taboo": ["Cesare", "Gandhi", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 747,
+    "guess": "Roma",
+    "taboo": ["Londra", "New York", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 748,
+    "guess": "Sushi",
+    "taboo": ["Gelato", "Pizza", "Hamburger", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 749,
+    "guess": "Pizza",
+    "taboo": ["Hamburger", "Gelato", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 750,
+    "guess": "Google",
+    "taboo": ["Robot", "iPhone", "Android", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 751,
+    "guess": "1984",
+    "taboo": ["Dune", "Il Signore degli Anelli", "It", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 752,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Adidas", "Nike", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 753,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Gelato", "Hamburger", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 754,
+    "guess": "Tokyo",
+    "taboo": ["New York", "Roma", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 755,
+    "guess": "1984",
+    "taboo": ["Harry Potter", "Dune", "Il Signore degli Anelli", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 756,
+    "guess": "Newton",
+    "taboo": ["Atomo", "Einstein", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 757,
+    "guess": "Robot",
+    "taboo": ["ChatGPT", "Google", "Android", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 758,
+    "guess": "Einstein",
+    "taboo": ["Big Bang", "Atomo", "DNA", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 759,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Avatar", "Inception", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 760,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Formula 1", "Basket", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 761,
+    "guess": "New York",
+    "taboo": ["Roma", "Londra", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 762,
+    "guess": "Gandhi",
+    "taboo": ["Napoleone", "Hitler", "Churchill", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 763,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Hamburger", "Gelato", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 764,
+    "guess": "Joker",
+    "taboo": ["Inception", "Titanic", "Avatar", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 765,
+    "guess": "Gelato",
+    "taboo": ["Pizza", "Sushi", "Pasta", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 766,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "Robot", "iPhone", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 767,
+    "guess": "Formula 1",
+    "taboo": ["Basket", "Messi", "Tennis", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 768,
+    "guess": "Churchill",
+    "taboo": ["Gandhi", "Cesare", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 769,
+    "guess": "Parigi",
+    "taboo": ["Roma", "Tokyo", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 770,
+    "guess": "Drake",
+    "taboo": ["Adele", "Eminem", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 771,
+    "guess": "Tokyo",
+    "taboo": ["Roma", "Parigi", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 772,
+    "guess": "Eminem",
+    "taboo": ["Drake", "Madonna", "Beatles", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 773,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Eminem", "Drake", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 774,
+    "guess": "Tennis",
+    "taboo": ["Formula 1", "Ronaldo", "Basket", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 775,
+    "guess": "Sedia",
+    "taboo": ["Lampada", "Bicicletta", "Telefono", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 776,
+    "guess": "ChatGPT",
+    "taboo": ["Android", "iPhone", "Google", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 777,
+    "guess": "1984",
+    "taboo": ["It", "Il Signore degli Anelli", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 778,
+    "guess": "Adele",
+    "taboo": ["Drake", "Beatles", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 779,
+    "guess": "Inception",
+    "taboo": ["Joker", "Matrix", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 780,
+    "guess": "Big Bang",
+    "taboo": ["Newton", "DNA", "Atomo", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 781,
+    "guess": "Google",
+    "taboo": ["ChatGPT", "iPhone", "Android", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 782,
+    "guess": "Hamburger",
+    "taboo": ["Pizza", "Sushi", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 783,
+    "guess": "Basket",
+    "taboo": ["Formula 1", "Tennis", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 784,
+    "guess": "Formula 1",
+    "taboo": ["Basket", "Messi", "Tennis", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 785,
+    "guess": "Adidas",
+    "taboo": ["Apple", "Coca-Cola", "Nike", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 786,
+    "guess": "Sushi",
+    "taboo": ["Pizza", "Hamburger", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 787,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["Dune", "Harry Potter", "It", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 788,
+    "guess": "Avatar",
+    "taboo": ["Titanic", "Matrix", "Inception", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 789,
+    "guess": "Hamburger",
+    "taboo": ["Pizza", "Sushi", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 790,
+    "guess": "Basket",
+    "taboo": ["Formula 1", "Tennis", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 791,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Eminem", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 792,
+    "guess": "Ronaldo",
+    "taboo": ["Messi", "Basket", "Tennis", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 793,
+    "guess": "Coca-Cola",
+    "taboo": ["Adidas", "Nike", "Pepsi", "Apple"],
+    "tema": "Brand"
+  },
+  {
+    "id": 794,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["It", "1984", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 795,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Madonna", "Beatles", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 796,
+    "guess": "Nike",
+    "taboo": ["Apple", "Pepsi", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 797,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Pizza", "Gelato", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 798,
+    "guess": "Ronaldo",
+    "taboo": ["Formula 1", "Basket", "Messi", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 799,
+    "guess": "Einstein",
+    "taboo": ["Newton", "DNA", "Big Bang", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 800,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["Harry Potter", "Dune", "1984", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 801,
+    "guess": "Avatar",
+    "taboo": ["Matrix", "Titanic", "Joker", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 802,
+    "guess": "Joker",
+    "taboo": ["Titanic", "Matrix", "Avatar", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 803,
+    "guess": "Harry Potter",
+    "taboo": ["Il Signore degli Anelli", "It", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 804,
+    "guess": "Nike",
+    "taboo": ["Pepsi", "Apple", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 805,
+    "guess": "ChatGPT",
+    "taboo": ["Robot", "iPhone", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 806,
+    "guess": "Harry Potter",
+    "taboo": ["Il Signore degli Anelli", "1984", "It", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 807,
+    "guess": "Londra",
+    "taboo": ["New York", "Tokyo", "Roma", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 808,
+    "guess": "Beatles",
+    "taboo": ["Eminem", "Madonna", "Adele", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 809,
+    "guess": "Napoleone",
+    "taboo": ["Churchill", "Cesare", "Hitler", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 810,
+    "guess": "Hitler",
+    "taboo": ["Napoleone", "Gandhi", "Cesare", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 811,
+    "guess": "Newton",
+    "taboo": ["Big Bang", "Einstein", "Atomo", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 812,
+    "guess": "Harry Potter",
+    "taboo": ["Dune", "It", "Il Signore degli Anelli", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 813,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Drake", "Madonna", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 814,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["1984", "Harry Potter", "It", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 815,
+    "guess": "Matrix",
+    "taboo": ["Inception", "Titanic", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 816,
+    "guess": "Adele",
+    "taboo": ["Madonna", "Eminem", "Drake", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 817,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "Google", "iPhone", "Robot"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 818,
+    "guess": "Tokyo",
+    "taboo": ["Parigi", "Londra", "New York", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 819,
+    "guess": "DNA",
+    "taboo": ["Atomo", "Einstein", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 820,
+    "guess": "Basket",
+    "taboo": ["Messi", "Tennis", "Ronaldo", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 821,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Cesare", "Napoleone", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 822,
+    "guess": "Hitler",
+    "taboo": ["Gandhi", "Churchill", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 823,
+    "guess": "Gandhi",
+    "taboo": ["Hitler", "Churchill", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 824,
+    "guess": "Madonna",
+    "taboo": ["Adele", "Eminem", "Beatles", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 825,
+    "guess": "Tokyo",
+    "taboo": ["New York", "Londra", "Parigi", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 826,
+    "guess": "Coca-Cola",
+    "taboo": ["Apple", "Pepsi", "Nike", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 827,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "Big Bang", "Newton", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 828,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Atomo", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 829,
+    "guess": "Nike",
+    "taboo": ["Adidas", "Pepsi", "Apple", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 830,
+    "guess": "Eminem",
+    "taboo": ["Drake", "Madonna", "Beatles", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 831,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Hamburger", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 832,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Formula 1", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 833,
+    "guess": "Formula 1",
+    "taboo": ["Tennis", "Ronaldo", "Basket", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 834,
+    "guess": "Big Bang",
+    "taboo": ["Atomo", "DNA", "Einstein", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 835,
+    "guess": "Roma",
+    "taboo": ["New York", "Tokyo", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 836,
+    "guess": "Sedia",
+    "taboo": ["Computer", "Lampada", "Telefono", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 837,
+    "guess": "Android",
+    "taboo": ["Google", "Robot", "ChatGPT", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 838,
+    "guess": "Hitler",
+    "taboo": ["Cesare", "Napoleone", "Gandhi", "Churchill"],
+    "tema": "Storia"
+  },
+  {
+    "id": 839,
+    "guess": "Parigi",
+    "taboo": ["Londra", "Tokyo", "Roma", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 840,
+    "guess": "Telefono",
+    "taboo": ["Lampada", "Bicicletta", "Sedia", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 841,
+    "guess": "Tennis",
+    "taboo": ["Messi", "Ronaldo", "Basket", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 842,
+    "guess": "Beatles",
+    "taboo": ["Drake", "Adele", "Eminem", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 843,
+    "guess": "Nike",
+    "taboo": ["Pepsi", "Adidas", "Apple", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 844,
+    "guess": "Beatles",
+    "taboo": ["Drake", "Madonna", "Eminem", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 845,
+    "guess": "Londra",
+    "taboo": ["New York", "Parigi", "Tokyo", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 846,
+    "guess": "Beatles",
+    "taboo": ["Eminem", "Adele", "Drake", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 847,
+    "guess": "Computer",
+    "taboo": ["Sedia", "Telefono", "Lampada", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 848,
+    "guess": "Joker",
+    "taboo": ["Avatar", "Inception", "Titanic", "Matrix"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 849,
+    "guess": "Dune",
+    "taboo": ["Il Signore degli Anelli", "Harry Potter", "It", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 850,
+    "guess": "iPhone",
+    "taboo": ["Robot", "Google", "ChatGPT", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 851,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Avatar", "Joker", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 852,
+    "guess": "Churchill",
+    "taboo": ["Napoleone", "Gandhi", "Cesare", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 853,
+    "guess": "Harry Potter",
+    "taboo": ["Il Signore degli Anelli", "It", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 854,
+    "guess": "New York",
+    "taboo": ["Tokyo", "Londra", "Parigi", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 855,
+    "guess": "Napoleone",
+    "taboo": ["Hitler", "Churchill", "Gandhi", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 856,
+    "guess": "Sushi",
+    "taboo": ["Pizza", "Hamburger", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 857,
+    "guess": "Basket",
+    "taboo": ["Formula 1", "Tennis", "Ronaldo", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 858,
+    "guess": "Adele",
+    "taboo": ["Drake", "Eminem", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 859,
+    "guess": "Churchill",
+    "taboo": ["Gandhi", "Hitler", "Napoleone", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 860,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Pasta", "Sushi", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 861,
+    "guess": "Tennis",
+    "taboo": ["Messi", "Formula 1", "Ronaldo", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 862,
+    "guess": "Avatar",
+    "taboo": ["Joker", "Matrix", "Titanic", "Inception"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 863,
+    "guess": "iPhone",
+    "taboo": ["Robot", "Android", "Google", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 864,
+    "guess": "Messi",
+    "taboo": ["Formula 1", "Basket", "Ronaldo", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 865,
+    "guess": "Londra",
+    "taboo": ["New York", "Parigi", "Roma", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 866,
+    "guess": "Tokyo",
+    "taboo": ["Londra", "Parigi", "New York", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 867,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Messi", "Ronaldo", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 868,
+    "guess": "Churchill",
+    "taboo": ["Napoleone", "Hitler", "Cesare", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 869,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Atomo", "DNA", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 870,
+    "guess": "Roma",
+    "taboo": ["New York", "Tokyo", "Londra", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 871,
+    "guess": "Eminem",
+    "taboo": ["Adele", "Drake", "Beatles", "Madonna"],
+    "tema": "Musica"
+  },
+  {
+    "id": 872,
+    "guess": "Google",
+    "taboo": ["iPhone", "Robot", "Android", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 873,
+    "guess": "It",
+    "taboo": ["1984", "Dune", "Harry Potter", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 874,
+    "guess": "Eminem",
+    "taboo": ["Madonna", "Adele", "Beatles", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 875,
+    "guess": "Titanic",
+    "taboo": ["Inception", "Matrix", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 876,
+    "guess": "Tokyo",
+    "taboo": ["Roma", "Parigi", "Londra", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 877,
+    "guess": "Titanic",
+    "taboo": ["Matrix", "Inception", "Avatar", "Joker"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 878,
+    "guess": "Newton",
+    "taboo": ["Big Bang", "Einstein", "Atomo", "DNA"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 879,
+    "guess": "Parigi",
+    "taboo": ["Tokyo", "New York", "Roma", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 880,
+    "guess": "Coca-Cola",
+    "taboo": ["Apple", "Adidas", "Pepsi", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 881,
+    "guess": "Google",
+    "taboo": ["Robot", "ChatGPT", "Android", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 882,
+    "guess": "Il Signore degli Anelli",
+    "taboo": ["It", "1984", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 883,
+    "guess": "Parigi",
+    "taboo": ["New York", "Roma", "Londra", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 884,
+    "guess": "Pasta",
+    "taboo": ["Hamburger", "Pizza", "Sushi", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 885,
+    "guess": "iPhone",
+    "taboo": ["Android", "ChatGPT", "Robot", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 886,
+    "guess": "Ronaldo",
+    "taboo": ["Basket", "Formula 1", "Messi", "Tennis"],
+    "tema": "Sport"
+  },
+  {
+    "id": 887,
+    "guess": "It",
+    "taboo": ["Dune", "Il Signore degli Anelli", "Harry Potter", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 888,
+    "guess": "Madonna",
+    "taboo": ["Eminem", "Drake", "Beatles", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 889,
+    "guess": "Basket",
+    "taboo": ["Tennis", "Messi", "Formula 1", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 890,
+    "guess": "Bicicletta",
+    "taboo": ["Computer", "Telefono", "Sedia", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 891,
+    "guess": "Lampada",
+    "taboo": ["Sedia", "Bicicletta", "Telefono", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 892,
+    "guess": "Robot",
+    "taboo": ["ChatGPT", "iPhone", "Android", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 893,
+    "guess": "Newton",
+    "taboo": ["Einstein", "Big Bang", "DNA", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 894,
+    "guess": "Nike",
+    "taboo": ["Apple", "Pepsi", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 895,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Gelato", "Pasta", "Hamburger"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 896,
+    "guess": "Robot",
+    "taboo": ["Google", "ChatGPT", "Android", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 897,
+    "guess": "Coca-Cola",
+    "taboo": ["Apple", "Nike", "Adidas", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 898,
+    "guess": "It",
+    "taboo": ["Il Signore degli Anelli", "1984", "Harry Potter", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 899,
+    "guess": "Hitler",
+    "taboo": ["Gandhi", "Churchill", "Cesare", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 900,
+    "guess": "Google",
+    "taboo": ["Robot", "Android", "ChatGPT", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 901,
+    "guess": "Tennis",
+    "taboo": ["Ronaldo", "Formula 1", "Basket", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 902,
+    "guess": "Joker",
+    "taboo": ["Matrix", "Inception", "Avatar", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 903,
+    "guess": "iPhone",
+    "taboo": ["Robot", "ChatGPT", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 904,
+    "guess": "Napoleone",
+    "taboo": ["Cesare", "Churchill", "Gandhi", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 905,
+    "guess": "Pizza",
+    "taboo": ["Sushi", "Hamburger", "Pasta", "Gelato"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 906,
+    "guess": "Dune",
+    "taboo": ["Harry Potter", "1984", "Il Signore degli Anelli", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 907,
+    "guess": "Harry Potter",
+    "taboo": ["Dune", "It", "Il Signore degli Anelli", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 908,
+    "guess": "Android",
+    "taboo": ["iPhone", "ChatGPT", "Robot", "Google"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 909,
+    "guess": "New York",
+    "taboo": ["Roma", "Londra", "Tokyo", "Parigi"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 910,
+    "guess": "Formula 1",
+    "taboo": ["Ronaldo", "Messi", "Tennis", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 911,
+    "guess": "Dune",
+    "taboo": ["It", "1984", "Harry Potter", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 912,
+    "guess": "Harry Potter",
+    "taboo": ["Dune", "It", "Il Signore degli Anelli", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 913,
+    "guess": "Tennis",
+    "taboo": ["Messi", "Formula 1", "Basket", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 914,
+    "guess": "Hamburger",
+    "taboo": ["Sushi", "Pizza", "Gelato", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 915,
+    "guess": "Telefono",
+    "taboo": ["Lampada", "Sedia", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 916,
+    "guess": "Ronaldo",
+    "taboo": ["Tennis", "Messi", "Formula 1", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 917,
+    "guess": "Madonna",
+    "taboo": ["Adele", "Eminem", "Drake", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 918,
+    "guess": "Beatles",
+    "taboo": ["Drake", "Adele", "Madonna", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 919,
+    "guess": "Adele",
+    "taboo": ["Eminem", "Beatles", "Madonna", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 920,
+    "guess": "Eminem",
+    "taboo": ["Drake", "Adele", "Madonna", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 921,
+    "guess": "Churchill",
+    "taboo": ["Gandhi", "Hitler", "Cesare", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 922,
+    "guess": "Roma",
+    "taboo": ["Tokyo", "Parigi", "New York", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 923,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Madonna", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 924,
+    "guess": "Beatles",
+    "taboo": ["Adele", "Madonna", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 925,
+    "guess": "Madonna",
+    "taboo": ["Drake", "Adele", "Eminem", "Beatles"],
+    "tema": "Musica"
+  },
+  {
+    "id": 926,
+    "guess": "Big Bang",
+    "taboo": ["DNA", "Atomo", "Newton", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 927,
+    "guess": "Inception",
+    "taboo": ["Matrix", "Joker", "Titanic", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 928,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Sushi", "Pizza", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 929,
+    "guess": "Adidas",
+    "taboo": ["Pepsi", "Coca-Cola", "Apple", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 930,
+    "guess": "Roma",
+    "taboo": ["New York", "Parigi", "Londra", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 931,
+    "guess": "Inception",
+    "taboo": ["Avatar", "Joker", "Matrix", "Titanic"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 932,
+    "guess": "DNA",
+    "taboo": ["Big Bang", "Newton", "Einstein", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 933,
+    "guess": "Hitler",
+    "taboo": ["Napoleone", "Cesare", "Churchill", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 934,
+    "guess": "Adidas",
+    "taboo": ["Coca-Cola", "Nike", "Apple", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 935,
+    "guess": "Pasta",
+    "taboo": ["Gelato", "Sushi", "Hamburger", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 936,
+    "guess": "Lampada",
+    "taboo": ["Computer", "Telefono", "Sedia", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 937,
+    "guess": "New York",
+    "taboo": ["Londra", "Parigi", "Roma", "Tokyo"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 938,
+    "guess": "Churchill",
+    "taboo": ["Hitler", "Napoleone", "Gandhi", "Cesare"],
+    "tema": "Storia"
+  },
+  {
+    "id": 939,
+    "guess": "Lampada",
+    "taboo": ["Computer", "Bicicletta", "Telefono", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 940,
+    "guess": "New York",
+    "taboo": ["Roma", "Parigi", "Tokyo", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 941,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Pasta", "Sushi", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 942,
+    "guess": "It",
+    "taboo": ["Il Signore degli Anelli", "Dune", "1984", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 943,
+    "guess": "Apple",
+    "taboo": ["Pepsi", "Adidas", "Nike", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 944,
+    "guess": "Napoleone",
+    "taboo": ["Cesare", "Hitler", "Churchill", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 945,
+    "guess": "iPhone",
+    "taboo": ["Robot", "Android", "Google", "ChatGPT"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 946,
+    "guess": "Drake",
+    "taboo": ["Beatles", "Madonna", "Adele", "Eminem"],
+    "tema": "Musica"
+  },
+  {
+    "id": 947,
+    "guess": "1984",
+    "taboo": ["Dune", "It", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 948,
+    "guess": "Lampada",
+    "taboo": ["Telefono", "Computer", "Sedia", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 949,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Einstein", "Newton", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 950,
+    "guess": "Adidas",
+    "taboo": ["Pepsi", "Nike", "Apple", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 951,
+    "guess": "Tokyo",
+    "taboo": ["Roma", "New York", "Parigi", "Londra"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 952,
+    "guess": "Nike",
+    "taboo": ["Apple", "Pepsi", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 953,
+    "guess": "Gandhi",
+    "taboo": ["Cesare", "Churchill", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 954,
+    "guess": "Titanic",
+    "taboo": ["Matrix", "Joker", "Inception", "Avatar"],
+    "tema": "Cinema"
+  },
+  {
+    "id": 955,
+    "guess": "Bicicletta",
+    "taboo": ["Telefono", "Sedia", "Lampada", "Computer"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 956,
+    "guess": "Android",
+    "taboo": ["ChatGPT", "Robot", "Google", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 957,
+    "guess": "Ronaldo",
+    "taboo": ["Messi", "Basket", "Tennis", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 958,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Il Signore degli Anelli", "1984", "Dune"],
+    "tema": "Libri"
+  },
+  {
+    "id": 959,
+    "guess": "Telefono",
+    "taboo": ["Computer", "Lampada", "Bicicletta", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 960,
+    "guess": "Nike",
+    "taboo": ["Apple", "Pepsi", "Adidas", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 961,
+    "guess": "Dune",
+    "taboo": ["1984", "It", "Il Signore degli Anelli", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 962,
+    "guess": "Sedia",
+    "taboo": ["Telefono", "Lampada", "Computer", "Bicicletta"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 963,
+    "guess": "Bicicletta",
+    "taboo": ["Computer", "Telefono", "Lampada", "Sedia"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 964,
+    "guess": "Tokyo",
+    "taboo": ["Parigi", "Londra", "Roma", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 965,
+    "guess": "Madonna",
+    "taboo": ["Drake", "Beatles", "Eminem", "Adele"],
+    "tema": "Musica"
+  },
+  {
+    "id": 966,
+    "guess": "1984",
+    "taboo": ["Il Signore degli Anelli", "It", "Dune", "Harry Potter"],
+    "tema": "Libri"
+  },
+  {
+    "id": 967,
+    "guess": "Robot",
+    "taboo": ["Android", "Google", "ChatGPT", "iPhone"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 968,
+    "guess": "1984",
+    "taboo": ["Dune", "Harry Potter", "Il Signore degli Anelli", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 969,
+    "guess": "Parigi",
+    "taboo": ["New York", "Tokyo", "Londra", "Roma"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 970,
+    "guess": "Pasta",
+    "taboo": ["Sushi", "Gelato", "Hamburger", "Pizza"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 971,
+    "guess": "Einstein",
+    "taboo": ["Atomo", "DNA", "Big Bang", "Newton"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 972,
+    "guess": "Pepsi",
+    "taboo": ["Coca-Cola", "Adidas", "Apple", "Nike"],
+    "tema": "Brand"
+  },
+  {
+    "id": 973,
+    "guess": "Tennis",
+    "taboo": ["Formula 1", "Messi", "Basket", "Ronaldo"],
+    "tema": "Sport"
+  },
+  {
+    "id": 974,
+    "guess": "Gandhi",
+    "taboo": ["Churchill", "Cesare", "Napoleone", "Hitler"],
+    "tema": "Storia"
+  },
+  {
+    "id": 975,
+    "guess": "Formula 1",
+    "taboo": ["Messi", "Ronaldo", "Tennis", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 976,
+    "guess": "Atomo",
+    "taboo": ["DNA", "Newton", "Big Bang", "Einstein"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 977,
+    "guess": "Pepsi",
+    "taboo": ["Nike", "Coca-Cola", "Apple", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 978,
+    "guess": "Pizza",
+    "taboo": ["Gelato", "Hamburger", "Sushi", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 979,
+    "guess": "Pepsi",
+    "taboo": ["Nike", "Coca-Cola", "Apple", "Adidas"],
+    "tema": "Brand"
+  },
+  {
+    "id": 980,
+    "guess": "Pizza",
+    "taboo": ["Pasta", "Gelato", "Hamburger", "Sushi"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 981,
+    "guess": "DNA",
+    "taboo": ["Einstein", "Big Bang", "Newton", "Atomo"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 982,
+    "guess": "1984",
+    "taboo": ["Harry Potter", "Il Signore degli Anelli", "Dune", "It"],
+    "tema": "Libri"
+  },
+  {
+    "id": 983,
+    "guess": "Ronaldo",
+    "taboo": ["Basket", "Formula 1", "Tennis", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 984,
+    "guess": "Dune",
+    "taboo": ["It", "Harry Potter", "1984", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  },
+  {
+    "id": 985,
+    "guess": "Adele",
+    "taboo": ["Beatles", "Madonna", "Eminem", "Drake"],
+    "tema": "Musica"
+  },
+  {
+    "id": 986,
+    "guess": "Einstein",
+    "taboo": ["Newton", "DNA", "Atomo", "Big Bang"],
+    "tema": "Scienza"
+  },
+  {
+    "id": 987,
+    "guess": "Dune",
+    "taboo": ["It", "Il Signore degli Anelli", "Harry Potter", "1984"],
+    "tema": "Libri"
+  },
+  {
+    "id": 988,
+    "guess": "Apple",
+    "taboo": ["Adidas", "Nike", "Pepsi", "Coca-Cola"],
+    "tema": "Brand"
+  },
+  {
+    "id": 989,
+    "guess": "Gelato",
+    "taboo": ["Hamburger", "Sushi", "Pizza", "Pasta"],
+    "tema": "Cibo"
+  },
+  {
+    "id": 990,
+    "guess": "Messi",
+    "taboo": ["Basket", "Ronaldo", "Tennis", "Formula 1"],
+    "tema": "Sport"
+  },
+  {
+    "id": 991,
+    "guess": "Churchill",
+    "taboo": ["Gandhi", "Cesare", "Hitler", "Napoleone"],
+    "tema": "Storia"
+  },
+  {
+    "id": 992,
+    "guess": "Telefono",
+    "taboo": ["Computer", "Bicicletta", "Sedia", "Lampada"],
+    "tema": "Oggetti"
+  },
+  {
+    "id": 993,
+    "guess": "Londra",
+    "taboo": ["Tokyo", "Roma", "Parigi", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 994,
+    "guess": "Basket",
+    "taboo": ["Ronaldo", "Formula 1", "Tennis", "Messi"],
+    "tema": "Sport"
+  },
+  {
+    "id": 995,
+    "guess": "Apple",
+    "taboo": ["Nike", "Coca-Cola", "Adidas", "Pepsi"],
+    "tema": "Brand"
+  },
+  {
+    "id": 996,
+    "guess": "Formula 1",
+    "taboo": ["Ronaldo", "Tennis", "Messi", "Basket"],
+    "tema": "Sport"
+  },
+  {
+    "id": 997,
+    "guess": "iPhone",
+    "taboo": ["Robot", "ChatGPT", "Google", "Android"],
+    "tema": "Tecnologia"
+  },
+  {
+    "id": 998,
+    "guess": "Roma",
+    "taboo": ["Londra", "Tokyo", "Parigi", "New York"],
+    "tema": "Geografia"
+  },
+  {
+    "id": 999,
+    "guess": "Hitler",
+    "taboo": ["Napoleone", "Cesare", "Churchill", "Gandhi"],
+    "tema": "Storia"
+  },
+  {
+    "id": 1000,
+    "guess": "Harry Potter",
+    "taboo": ["It", "Dune", "1984", "Il Signore degli Anelli"],
+    "tema": "Libri"
+  }
+]

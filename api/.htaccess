@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteBase /api/
+
+# Lascia passare tutti i file e cartelle reali (statici)
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Rimuove slash finale solo per nomi di endpoint API
+RewriteRule ^([a-zA-Z0-9_-]+)/$ $1 [R=301,L]
+
+# Riscrive /api/qualcosa -> /api/qualcosa.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]
+
+# Gestione 404 custom per API inesistenti
+ErrorDocument 404 "API non trovata"
