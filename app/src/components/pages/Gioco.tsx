@@ -208,7 +208,7 @@ export const Gioco = (): JSX.Element => {
               idsPassati={idsParolePassate}
               idsIndovinati={idsParoleIndovinate}
               timerCompleted={timer === 0}
-              disablePass={idsParolePassate.length === 2}
+              disablePass={idsParolePassate.length === 3}
             />
           </Grid>
         )}

@@ -13,6 +13,7 @@ export const BottomCardButtons = (props: BottomCardButtonsProps): JSX.Element =>
   const { onError, onSuccess, onPass, idsSbagliati, idsIndovinati, idsPassati, timerCompleted, disablePass } = props;
 
   const parole = useParole();
+  const passoDisponibili: number = 3 - idsPassati.length;
 
   return (
     <Grid size={12}>
@@ -38,7 +39,7 @@ export const BottomCardButtons = (props: BottomCardButtonsProps): JSX.Element =>
               slotProps={{ badge: { sx: { border: "1px solid " + theme.palette.primary.light, color: theme.palette.primary.light } } }}
             >
               <Button fullWidth className="bottomCardButton passButton" disabled={disablePass || timerCompleted} onClick={onPass}>
-                Passo
+                {"Passo" + (passoDisponibili > 0 ? " (" + passoDisponibili + ")" : "")}
               </Button>
             </Badge>
             {idsPassati.map((id: number, index: number) => (
